@@ -1,0 +1,36 @@
+{
+  "name": "react-web-animations-js-wrapper",
+  "version": "1.0.0",
+  "description": "A wrapper for import Web Animations API JS Polyfill for React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patiernom/react-web-animations-js-wrapper.git"
+  },
+  "keywords": [
+    "react",
+    "web",
+    "animation",
+    "web",
+    "animations",
+    "api",
+    "web",
+    "animations",
+    "api",
+    "next",
+    "waapi",
+    "react",
+    "animation",
+    "react",
+    "polyfill"
+  ],
+  "author": "Marco Patierno <marco_patierno@msn.com> (https://github.com/patiernom/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/patiernom/react-web-animations-js-wrapper/issues"
+  },
+  "homepage": "https://github.com/patiernom/react-web-animations-js-wrapper#readme"
+}
