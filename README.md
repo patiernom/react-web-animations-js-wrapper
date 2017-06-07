@@ -19,7 +19,7 @@ npm install react-web-animations-js-wrapper --save-dev
 
 ## Example
 ```javascript
-import "web-animations-js-wrapper";
+import "react-web-animations-js-wrapper";
 
 ```
 
@@ -27,7 +27,7 @@ import "web-animations-js-wrapper";
 
 
 ```javascript
-import "web-animations-js-wrapper/next";
+import "react-web-animations-js-wrapper/next";
 
 ```
 
