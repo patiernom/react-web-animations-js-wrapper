@@ -6,7 +6,7 @@ A wrapper for import Web Animations API JS Polyfill for React
 The easiest way is to keep `react-web-animations-js-wrapper` as a devDependency in your `package.json`.
 ```json
 {
-  "devDependencies": {
+  "dependencies": {
     "react-web-animations-js-wrapper": "1.0.0"
   }
 }
@@ -14,7 +14,7 @@ The easiest way is to keep `react-web-animations-js-wrapper` as a devDependency 
 
 You can simple do it by:
 ```bash
-npm install react-web-animations-js-wrapper --save-dev
+npm install react-web-animations-js-wrapper --save
 ```
 
 ## Example
