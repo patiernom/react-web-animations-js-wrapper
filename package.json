@@ -1,6 +1,6 @@
 {
   "name": "react-web-animations-js-wrapper",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A wrapper for import Web Animations API JS Polyfill for React",
   "main": "index.js",
   "scripts": {
